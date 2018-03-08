@@ -1,2 +1,5 @@
 # ST_Health_Track
-Tracking tweets around science, technology and health
+Tracking social media feeds around science, technology and health
+Language: Python
+Media (APIs): Twitter, Facebook, Instagram and YouTube 
+Python packages: 
